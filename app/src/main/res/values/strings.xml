@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Tienda_Zapatos</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="nav_header_title">Tienda de Zapatos</string>
+    <string name="nav_header_subtitle">Reto 5.1: App_v5.1</string>
+    <string name="main_fragment">PRINCIPAL</string>
+    <string name="title_favoritos">add favorites</string>
+    <string name="title_services">Servicios</string>"
+    <string name="title_surcusal">Surcursales</string>"
+    <string name="title_productos">Productos</string>"
+    <string name="surcusal">Surcursal</string>"
+
+
+    <string name="title_cerrar_sesion">Log out</string>
+
+    <string name="open">open</string>
+    <string name="close" />
+    <string name="adidas_gazelle_bold_w">Adidas GAZELLE BOLD W</string>
+    <string name="descripcion_adidas"> la icónica firma Gazelle </string>
+    <string name="descripcion_A">Descripcion:</string>
+    <string name="descripcion_adidasG">Las 3 rayas dentadas y la parte superior de ante se mantienen fieles a la icónica firma Gazelle.</string>
+    <string name="btn_cancelar">Cancelar</string>
+    <string name="Precio">Precio:</string>
+    <string name="precio_adidas">120 €</string>
+    <string name="tienda_zapatos">Tienda Zapatos</string>
+    <string name="BusquedaProductos">Buscar_Productos</string>
+    <string name="str_nombreProducto">Nombre del Producto</string>
+    <string name="str_digitenombre">digite el producto</string>
+    <string name="str_btnBuscar">Buscar</string>
+    <string name="str_descripcionProduc">descripcion del producto</string>
+    <string name="str_digitedescripcion">digite descripcion</string>
+    <string name="str_precioproducto">Precio del producto</string>
+    <string name="str_digiteprecio">digite el precio</string>
+    <string name="str_digitemarca">digite marca</string>
+    <string name="btn_guardar">Guardar Registro</string>
+    <string name="btn_ediguardar">Guardar</string>
+    <string name="str_marcaProducto">Marca del producto</string>
+    <string name="Res_registroproducto">Registro producto</string>
+    <string name="edt_Editarproducto">Actualizar producto</string>
+    <string name="gestor_productos">Gestor Productos</string>
+    <string name="title_activity_bottom">BottomActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="reto4">Reto4</string>
+    <string name="gestor_servicios">Gestor Servicios</string>
+</resources>

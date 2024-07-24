@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+<group>
+    <item
+        android:id="@+id/principal"
+        android:icon="@drawable/ic_home"
+        android:title="Principal" />
+    <item
+        android:id="@+id/productos"
+        android:icon="@drawable/baseline_products"
+        android:title="Productos" />
+    <item
+        android:id="@+id/servicios"
+        android:icon="@drawable/baseline_services"
+        android:title="@string/title_services" />
+
+    <item
+        android:id="@+id/surcusales"
+        android:icon="@drawable/baseline_branch"
+        android:title="@string/title_surcusal" />
+
+
+
+</group>
+
+</menu>
